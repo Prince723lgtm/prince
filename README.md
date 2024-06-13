@@ -1,3 +1,3 @@
 # prince
-my first program
+my first git
 
